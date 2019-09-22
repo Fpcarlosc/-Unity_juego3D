@@ -7,3 +7,7 @@ En las diferentes ramas del repositorio podréis encontrar los scripts necesario
 
 + _CamaraSeguimiento.cs_: Configuración de la cámara para que siga al jugador.
 + _MovimientoEnemigo.cs_: Configuración del movimiento del enemigo para que siga al jugador haciendo uso del componente  _NavMeshAgent_.
+## Rama Parte3
+
++ _JugadorVida.cs_: Actualización de la vida del jugador al recibir daño y comprobación si éste muere.
++ _AtaqueEnemigo.cs_: Configuración del ataque del enemigo.
