@@ -67,7 +67,7 @@ public class MovimientoJugador : MonoBehaviour
         // La variable RaycastHit almacena información sobre dónde ha "golpeado" el rayo.
         RaycastHit sueloHit;
 
-        // Comprobamos si el rayo a "golpeado" a algo en el suelo pasándole al método Raycast
+        // Comprobamos si el rayo ha "golpeado" a algo en el suelo pasándole al método Raycast
         // el origen del rayo (camRay), el destino (sueloHit) usando una variable out para obtener información
         // desde fuera de este método, longitud del rayo (camRayLongitud) y el LayerMask donde está el suelo (sueloMask).
         if(Physics.Raycast (camRay, out sueloHit, camRayLongitud, sueloMask))
