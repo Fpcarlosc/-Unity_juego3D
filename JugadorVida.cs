@@ -86,7 +86,7 @@ public class JugadorVida : MonoBehaviour
         playerAudio.clip = audioMuerto;
         playerAudio.Play ();
 
-        // Desabilitamos el script MovimientoJugador.cs.
+        // Deshabilitamos el script MovimientoJugador.cs.
         movimientoJugador.enabled = false;
     }       
 }
