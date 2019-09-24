@@ -18,4 +18,4 @@ En las diferentes ramas del repositorio podréis encontrar los scripts necesario
 + _JugadorDisparo.cs_: Configuración del disparo del jugador reduciendo la vida del enemigo si éste es alcanzado.
 + _MovimientoEnemigo.cs_: Modificación del script de la _Parte 2_ para subsanar el error en la navegación cuando el enemigo muere.
 + _JugadorVida.cs_: Modificación del script de la _Parte 3_ para evitar que si el jugador muere no pueda disparar más.
-+ _TextoPuntos.cs_: Configuración del texto con los puntos obtenidos que aparece por pantalla.
++ _GestionPuntos.cs_: Configuración del texto con los puntos obtenidos que aparece por pantalla.
