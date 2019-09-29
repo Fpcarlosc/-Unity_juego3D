@@ -19,3 +19,8 @@ En las diferentes ramas del repositorio podréis encontrar los scripts necesario
 + _MovimientoEnemigo.cs_: Modificación del script de la _Parte 2_ para subsanar el error en la navegación cuando el enemigo muere.
 + _JugadorVida.cs_: Modificación del script de la _Parte 3_ para evitar que si el jugador muere no pueda disparar más.
 + _GestionPuntos.cs_: Configuración del texto con los puntos obtenidos que aparece por pantalla.
+## Rama Parte5
+
++ _GestionEnemigos.cs_: Configuración de la generación automática de enemigos cada cierto tiempo.
++ _GestionFinJuego.cs_: Configuración de la animación asociada a la finalización del juego.
++ _JugadorVida.cs_: Modificación del script de la _Parte 4_ para volver a cargar la escena una vez finaliza el juego.
