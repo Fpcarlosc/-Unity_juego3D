@@ -1,4 +1,4 @@
-# Rama Parte5
+# Parte5
 
 + _GestionEnemigos.cs_: Configuración de la generación automática de enemigos cada cierto tiempo.
 + _GestionFinJuego.cs_: Configuración de la animación asociada a la finalización del juego.
