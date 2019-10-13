@@ -1,4 +1,4 @@
-# Rama Parte4
+# Parte4
 
 + _EnemigoVida.cs_: Actualización de la vida del enemigo al recibir daño, comprobación si éste muere y obtención de puntos asociados.
 + _AtaqueEnemigo.cs_: Modificación del script de la _Parte 3_ para adaptar el ataque en función de la vida del enemigo.
